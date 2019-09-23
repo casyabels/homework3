@@ -1,0 +1,41 @@
+#logotop {
+	height: 100px;
+	width: 100px;
+}
+#anime{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+.bganime {
+ margin-top: 55px;
+}
+
+hr{
+	height: 15px;
+	background-color: gray;
+}
+.row-d{
+	background-color: grey;
+	height: 250px;
+	display: flex;
+	align-items: center;
+	}
+	.row-e{
+		height: 130px;
+		background-color: black;
+	
+}
+.p{
+	text-align: center;
+}
+.row-f{
+	background-color: rgb(252, 174, 30);
+	height: 75px;
+	display: flex;
+  justify-content: space-around;
+}
+.bgtop{
+	background-image: linear-gradient(to bottom left, rgb(245, 213, 73) 50%, rgb(252, 174, 30) 50% )
+}
